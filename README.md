@@ -4,7 +4,7 @@
 
 ## Usage
 
-Import `require-worker` using importScripts in your worker. The script provides the `requireworker` functions to load AMD modules synchronous. Here is an examples:
+Import `require-worker` using importScripts in your worker. The script provides the `requireworker` function to load AMD modules synchronous. Here is an example:
 
     importScripts('require-worker');
     var module1 = requireworker('module1');

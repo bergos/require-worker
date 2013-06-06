@@ -1,0 +1,30 @@
+{
+  "name": "require-worker",
+  "version": "0.0.0",
+  "description": "Small AMD compatible module loader for Web Workers",
+  "main": "require-worker.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bergos/require-worker.git"
+  },
+  "keywords": [
+    "amd",
+    "requirejs",
+    "worker"
+  ],
+  "author": {
+    "name": "Thomas Bergwinkl",
+    "email": "bergi@axolotlfarm.org"
+  },
+  "license": "Apache V2",
+  "bugs": {
+    "url": "https://github.com/bergos/require-worker/issues"
+  },
+  "readmeFilename": "README.md"
+}
